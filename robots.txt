@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://elevana.guru/karka/prashna/sitemap.xml
